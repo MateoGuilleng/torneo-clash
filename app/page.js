@@ -757,7 +757,7 @@ export default function Page() {
                 <li>Solo potencias de 2 permiten iniciar.</li>
                 <li>Rondas normales: mejor de 3 sets.</li>
                 <li>Gran Final: mejor de 5 sets.</li>
-                <li>Click en "Expandir" para ver detalles de jugadores.</li>
+                <li>Click en Expandir para ver detalles de jugadores.</li>
                 <li>Los círculos muestran sets ganados por jugador.</li>
               </ol>
             </aside>
