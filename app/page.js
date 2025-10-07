@@ -749,6 +749,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
+            
 
             <aside className="p-6 rounded-2xl border border-neutral-700 bg-gradient-to-r from-neutral-900/50 to-neutral-800/20">
               <div className="text-sm font-bold mb-2">Instrucciones</div>
